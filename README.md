@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm KeeTaek from South Korea, a computer engineering student interested in artificial intelligence and robotics.
+I'm KeeTaek from South Korea, a computer engineering student interested in artificial intelligence.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samscientist&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
-**samscientist/samscientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
