@@ -2,7 +2,7 @@
 
 I'm KeeTaek from South Korea, a computer engineering student interested in artificial intelligence.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samscientist&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=candleboxyz&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
